@@ -1,0 +1,46 @@
+/* Signup.css */
+
+/* Signup.css */
+.signup-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+    margin-top: 140px;
+    
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 10px;
+  }
+  
+  input {
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: black;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    border-color: #fff;
+    border-width: 5px solid;
+  }
+  
+  button:hover {
+    background-color: white;
+    color: black;
+  }
+ 
+  
